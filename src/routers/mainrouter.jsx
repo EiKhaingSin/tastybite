@@ -16,20 +16,20 @@ const router = createBrowserRouter([
         element: <Homepage />,
       },
       {
-        path: 'about', 
+        path: '/tastybite', 
         element: <About />,
       },
 
       {
-        path: 'contact',
+        path: '/tastybite',
         element: <Contact />,
       },
       {
-        path: 'menu',
+        path: '/tastybite',
         element: <Menu />,
       },
       {
-        path: 'blog',
+        path: '/tastybite',
         element: <BlogPage />,
       },
     ],
