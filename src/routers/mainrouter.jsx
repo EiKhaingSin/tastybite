@@ -8,7 +8,7 @@ import BlogPage from '../pages/blog.jsx';
 
 const router = createBrowserRouter([
   {
-    path: '/',
+    path: '/tastybite',
     element: <Layout />,
     children: [
       {
